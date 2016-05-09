@@ -1,0 +1,25 @@
+[{
+  "id": 1,
+  "name": "Flagler Location",
+  "street_address": "123 w flagler st",
+  "city": "Miami",
+  "state": "Florida",
+  "zip": "33144",
+  "phone": "1-888-cs-flagler"
+}, {
+  "id": 2,
+  "name": "Brickell Location",
+  "street_address": "123 w 12 st",
+  "city": "Miami",
+  "state": "Florida",
+  "zip": "33144",
+  "phone": "1-888-cs-brickell"
+}, {
+  "id": 3,
+  "name": "Kendall Location",
+  "street_address": "123 w kendall dr",
+  "city": "Miami",
+  "state": "Florida",
+  "zip": "33183",
+  "phone": "1-888-cs-kendall"
+}]

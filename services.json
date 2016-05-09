@@ -1,0 +1,18 @@
+[
+  {
+  "id": 1,
+  "name": "Hardware Repair",
+  "description": "Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet.",
+  "image": "computer-icon.png"
+  }, 
+  {
+  "id": 2,
+  "name": "Virus Removal",
+  "description": "Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet.",
+  "image": "computer-icon.png"
+  }, {
+  "id": 3,
+  "name": "System Tuneup",
+  "description": "Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet.",
+  "image": "computer-icon.png"
+}]
